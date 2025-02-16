@@ -52,3 +52,21 @@ Follow these steps to install and run the application:
    ```bash
    git clone https://github.com/FirdavsToshniyozov/AI-Based-Sentiment-Analysis.git
    cd AI-Based-Sentiment-Analysis
+
+---
+
+## **Built By**
+
+This application was proudly created by **Firdavs Toshniyozov**, a passionate developer dedicated to leveraging AI technologies to create impactful and user-friendly solutions.  
+For inquiries or collaboration opportunities, feel free to connect with me!
+
+---
+
+## **Contact**
+
+For any inquiries, feedback, or collaboration opportunities, feel free to reach out:  
+- **Email**: [toshniyozov2006@gmail.com](mailto:toshniyozov2006@gmail.com)  
+- **Telegram**: [@FiscalD](https://t.me/FiscalD)  
+- **WhatsApp**: [+998901287266](https://wa.me/998901287266)
+
+---
