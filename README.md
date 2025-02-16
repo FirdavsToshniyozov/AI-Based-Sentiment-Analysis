@@ -63,7 +63,7 @@ This application was proudly created by
 
 A passionate developer dedicated to leveraging AI technologies to create impactful and user-friendly solutions.  
 
-For inquiries or collaboration opportunities, feel free to connect via GitHub or LinkedIn.
+For any inquiries or collaboration opportunities, feel free to reach out!
 
 ---
 
