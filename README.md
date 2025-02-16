@@ -57,8 +57,13 @@ Follow these steps to install and run the application:
 
 ## **Built By**
 
-This application was proudly created by **Firdavs Toshniyozov**, a passionate developer dedicated to leveraging AI technologies to create impactful and user-friendly solutions.  
-For inquiries or collaboration opportunities, feel free to connect with me!
+This application was proudly created by  
+
+# **Firdavs Toshniyozov**  
+
+A passionate developer dedicated to leveraging AI technologies to create impactful and user-friendly solutions.  
+
+For inquiries or collaboration opportunities, feel free to connect via GitHub or LinkedIn.
 
 ---
 
